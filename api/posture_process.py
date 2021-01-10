@@ -63,7 +63,7 @@ data['posture'] = {'good':good, 'bad':bad}
 import os
 empty = os.stat(data_file).st_size == 0
 
-# Change this to store a list of JSON rather than append JSON dictionaries to the end of the file
+# TODO: Change this to store a list of JSON rather than append JSON dictionaries to the end of the file
 json.dump(data,open(data_file, "a+"), indent=3)
 with open(data_file, "a+") as outfile:
     if not empty:
