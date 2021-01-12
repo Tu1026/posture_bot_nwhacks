@@ -1,6 +1,6 @@
 # posture_bot
 
-# *Original version is <a href=https://github.com/otes10/posture_bot> here <a/> and all credits to my teammates CharLee674, haochenlu, and otes10 for being great help for my first hackathon 
+# *Original version is <a href=https://github.com/otes10/posture_bot> here <a/> and all credits to my teammates CharLee674, haochenlu, and otes10 for being great help in leading to my first Hackathon. I mainly contributed to the usage of AWS's S3 storage service.
 
 ### Requirements
 On your Raspberry Pi, you will need to install the following:
