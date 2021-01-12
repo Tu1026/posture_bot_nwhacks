@@ -1,5 +1,7 @@
 # posture_bot
 
+# *Original version is <a href=https://github.com/otes10/posture_bot> here <a/> and all credits to my teammates CharLee674, haochenlu, and otes10 for being great help for my first hackathon 
+
 ### Requirements
 On your Raspberry Pi, you will need to install the following:
 - Every pip install as detailed in the `requirements.txt`
